@@ -1,0 +1,7 @@
+flask==3.0.0
+gunicorn==21.2.0
+curl-cffi==0.7.4
+playwright==1.48.0
+beautifulsoup4==4.12.3
+faker==33.1.0
+fake-useragent==1.5.1
